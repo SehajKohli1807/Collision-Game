@@ -8,6 +8,9 @@ This project involves an interactive 2D animation game where players must protec
 
 ## 2D animation:
 
-
 https://github.com/SehajKohli1807/CG-project/assets/109986103/b6392eaa-1550-45db-a475-87d8f22bed6d
+
+## Website Link:
+
+https://sehajkohli1807.github.io/Collision-Game/
 
