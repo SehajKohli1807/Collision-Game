@@ -76,7 +76,7 @@ function update() {
             y: Math.random() * canvas.height,
             width: 40 + Math.random() * 50,
             height: 40 + Math.random() * 50,
-            speed: 6 + Math.random() * 5
+            speed: 7 + Math.random() * 5
         };
         obstacles.push(obstacle);
         obstacles_count++;
